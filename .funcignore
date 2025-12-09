@@ -1,0 +1,10 @@
+node_modules
+.git
+.vscode
+local.settings.json
+.env
+docker
+Dockerfile
+index.js
+README.md
+
